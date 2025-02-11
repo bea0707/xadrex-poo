@@ -1,0 +1,8 @@
+C:\Users\TEMP.IFRN.002\Desktop\obj\Debug\net8.0-windows\projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TEMP.IFRN.002\Desktop\obj\Debug\net8.0-windows\projeto.AssemblyInfoInputs.cache
+C:\Users\TEMP.IFRN.002\Desktop\obj\Debug\net8.0-windows\projeto.AssemblyInfo.cs
+C:\Users\TEMP.IFRN.002\Desktop\obj\Debug\net8.0-windows\projeto.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.IFRN.002\Desktop\bububu\obj\Debug\net8.0-windows\projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TEMP.IFRN.002\Desktop\bububu\obj\Debug\net8.0-windows\projeto.AssemblyInfoInputs.cache
+C:\Users\TEMP.IFRN.002\Desktop\bububu\obj\Debug\net8.0-windows\projeto.AssemblyInfo.cs
+C:\Users\TEMP.IFRN.002\Desktop\bububu\obj\Debug\net8.0-windows\projeto.csproj.CoreCompileInputs.cache
